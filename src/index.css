@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: hsl(210, 36%, 96%);
+  background: white;
   color: hsl(209, 61%, 16%);
 }
 
@@ -49,7 +49,7 @@ p {
   }
 }
 .menu {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
 .title {
   text-align: center;
@@ -65,9 +65,9 @@ p {
 }
 
 .btn-container {
-  margin-bottom: 4rem;
   display: flex;
   justify-content: center;
+  padding-bottom: 4rem;
 }
 
 .filter-btn {

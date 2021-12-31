@@ -20,7 +20,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -44,7 +44,7 @@
 }
 
 .form {
-  background: #fff;
+  background: white;
   max-width: 450px;
   margin: 0 auto;
   margin-bottom: 4rem;
@@ -53,14 +53,14 @@
 }
 
 .form input {
-  background: hsl(210, 36%, 96%);
+  background: white;
   border-color: transparent;
   border-radius: 0.25rem;
   padding: 0.25rem 0.5rem;
 }
 
 .item {
-  background: #fff;
+  background: white;
   display: flex;
   justify-content: space-between;
   max-width: 450px;
